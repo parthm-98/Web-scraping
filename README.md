@@ -2,4 +2,4 @@
 Developed a python script to scrape data from imdb's website. 
 
 ## Data scraped
-![screenshot from 2018-10-26 21-10-01](https://user-images.githubusercontent.com/29770201/47577255-0cd45880-d964-11e8-8496-5acafef86dfd.png)
+![Screen Shot 2019-11-17 at 10 04 36 AM](https://user-images.githubusercontent.com/32263368/69003144-2b1c4600-0923-11ea-8e40-818edf795a31.png)
